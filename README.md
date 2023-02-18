@@ -16,8 +16,9 @@ To run this project, you need to have the following libraries installed:
 To use this project, clone the repository to your local machine and run the code in a Python environment such as Jupyter Notebook or Spyder. The dataset used in this project is included in the repository.
 
 ### Project Structure
-README.md: Provides an overview of the project.
-Ecommerce_Customers.csv: The dataset used in this project.
-E-commerce Customer Yearly Spending Analysis.ipynb: The Jupyter Notebook containing the code for this project.
+
+* README.md: Provides an overview of the project.
+* Ecommerce_Customers.csv: The dataset used in this project.
+* E-commerce Customer Yearly Spending Analysis.ipynb: The Jupyter Notebook containing the code for this project.
 
 
